@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+crewai
+langchain_google_genai
+evaluate
+datasets
+numpy
+tf-keras
+jupyter
+notebook
+rouge_score
